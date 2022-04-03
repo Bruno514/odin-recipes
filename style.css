@@ -1,16 +1,28 @@
 body {
-	background-color: #0c0b0c;
+  background-color: #151515;
   color: whitesmoke;
   font-family: arial;
   max-width: 1200px;
+  padding: 0 16px ;
   margin: auto;
 }
 
 .title {
-  font-style: italic
+  font-style: italic;
 }
 
 img {
   border: 2px solid snow;
 }
 
+a {
+	color: lightblue ;
+}
+
+a:visited {
+	color: gray ;
+}
+
+h2 {
+  color: tomato;
+}
